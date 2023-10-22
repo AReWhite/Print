@@ -29,5 +29,9 @@ The Circular Printing Program is a simple Python script that continuously prints
 - `end <count>`: Set the number of loops before the program stops (e.g., `end 10` sets the loop count to 10)（设置程序停止之前的循环次数，例如 `end 10` 设置循环次数为10）.
 - `list`: Display a list of available commands（显示可用命令列表）.
 
+## Contact（联系方式）
+
+- If you have any questions or feedback regarding this project, please contact us via email at oterolucas846@gmail.com（如果您对该项目有任何问题或反馈，请通过电子邮件与我们联系：oterolucas846@gmail.com）。
+
 ## License（许可证）
 This program is released under the [MIT License](LICENSE).（该程序采用 [MIT许可证](LICENSE) 发布。）
