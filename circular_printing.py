@@ -23,7 +23,7 @@ time.sleep(1)  # 延迟一秒
 print(f"{YELLOW}完成{RESET}")
 sys.stdout.flush()  # 确保及时显示
 
-time.sleep(0.5)  #延迟0.5秒
+time.sleep(0.5)  # 延迟0.5秒
 
 is_running = True
 count = 0
